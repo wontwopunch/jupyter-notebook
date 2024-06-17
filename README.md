@@ -9,3 +9,6 @@
 - [x]  Python 데이터 구조 및 Numpy
 - [x]  Pandas를 이용한 데이터 조작
 - [x]  데이터 전처리 기초
+- [x]  Matplotlib을 이용한 데이터 시각화
+- [x]  Seaborn을 이용한 고급 시각화
+- [ ]  Tableau 기본 사용법
